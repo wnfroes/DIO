@@ -1,0 +1,1 @@
+Este é o arquivo de teste que será criptografado e decriptografado pelos programas.
